@@ -1,23 +1,20 @@
 <h1 align="center">
   <br>
-  <b>Citra</b>
+  <b>C-Emu</b>
   <br>
 </h1>
 
-<h4 align="center">Nintendo 3DS emulator.
+<h4 align="center">3DS emulator.
 <br>
-No longer being maintained for Windows, Linux, Android and macOS.
+Project is no longer in active Development for either Windows, Linux or Android.
 </h4>
 
 
-## Releases
+## Downloads
+The [Nightly](https://github.com/kinderdat/C-Emulator/releases/tag/EarlyAccess) Early Access
 
-Citra has two main release channels: Nightly and Canary.
-
-The [Nightly](https://github.com/kinderdat/Citra/releases/tag/EarlyAccess) Experimental with Additional features
-
-The [Canary](https://github.com/kinderdat/Citra/releases/tag/Mainline) Base Version
+The [Canary](https://github.com/kinderdat/C-Emulator/releases/tag/Mainline) Mainline
 
 ## License
 
-Citra is licensed under the GPLv2 
+Project is licensed under the GPLv2 
